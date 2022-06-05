@@ -1,0 +1,16 @@
+/* assigns the text color #6D6D6D to the html tags body and h2 */
+$colorvar: #3D3D3D;
+$bgcolor: #6D6D6D;
+
+body {
+    color: $colorvar;
+    background-color: $bgcolor;
+}
+
+p {
+    color: $colorvar;
+}
+
+h2 {
+    background-color: $bgcolor;
+}
